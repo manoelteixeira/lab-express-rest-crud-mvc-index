@@ -118,7 +118,7 @@ For each model, make a folder with the appropriate file name. For example, for t
     name: "Amandine",
     role: "member",
     plan: "silver",
-    mainLocation: "11101",
+    mainLocation: "11011",
   },
 ];
 ```
@@ -251,7 +251,7 @@ Create a `GET` route at `/locations/people` that organizes each person according
         name: "Amandine",
         role: "member",
         plan: "silver",
-        mainLocation: "10011",
+        mainLocation: "11011",
       },
     ],
   },
